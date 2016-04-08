@@ -1,8 +1,11 @@
 # CONTRIBUTING
 
-The libuv project welcomes new contributors. This document will guide you
+The "Port of libuv to IBM® z Systems" project welcomes new contributors. This document will guide you
 through the process.
 
+### Contributor Agreement
+
+If you haven't contributed before please read through the contributor license agreement (CLA) and make sure you are able to satisfy the conditions described. Don't worry, there aren't any traps. It's all common sense. Work through the CLA process as a separate task while preparing your contribution. 
 
 ### FORK
 
